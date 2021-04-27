@@ -5,7 +5,7 @@
 	🚧  Plano de Estudos 🚀 Em construção...  🚧
 </h4>
 
-### Features
+### NÍVEIS
 
 - [ ] INICIANTE (em andamento)
 - [ ] INTERMEDIÁRIO
