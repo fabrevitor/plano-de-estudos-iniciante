@@ -36,6 +36,7 @@ _APOIO_
 Comunidades He4rt Developers e MarcoBrunoDev.
 
 _IMPORTANTE_
+
 Se você estiver em busca de oportunidades na área de TI é essencial que você poste seus exercícios/projetos de estudo no GitHub e mantenha seu LinkedIn atualizado e bem preenchido.
 Dica clichê: seja fluente em inglês!
 
