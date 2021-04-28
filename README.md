@@ -41,3 +41,10 @@ Se você estiver em busca de oportunidades na área de TI é essencial que você
 
 Dica clichê: seja fluente em inglês!
 
+--------------------------------------------------------------------------------------------------------------
+#TODO
+
+Ferramentas necessárias:
+- Todos precisam: Lógica/Algoritmos, Estrutura de Dados, Programação Orientada a Objetos, Banco de Dados.
+- FrontEnd: HTML, CSS, JavaScript, Git/Github, HTTP, Framework(React, Angular ou Vue).
+- BackEnd: .............
