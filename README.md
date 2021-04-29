@@ -5,16 +5,12 @@
 	🚧  Plano de Estudos 🚀 Em construção...  🚧
 </h4>
 
-### NÍVEIS
-
-- [ ] INICIANTE (em andamento)
-- [ ] INTERMEDIÁRIO
-- [ ] AVANÇADO
-
-INICIANTE
 
 *Primeiros Passos:*
-Interessante entender bem a lógica de programação e dos algoritmos, em comunidades de devs no discord muitos indicaram o curso do Prof. Guanabara.
+
+🚩 Lógica de Programação/Algoritmos:
+
+Em comunidades de devs no discord muitos indicaram o curso do Prof. Guanabara.
 Links: 
 - https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV 
 - https://www.cursoemvideo.com/course/curso-de-algoritmo/
@@ -22,23 +18,34 @@ Links:
 Obs: No link do CursoEmVideo é possível pagar por um certificado (cerca de R$40,00).
 
 Porque isso?
+
 Ao entender bem os algoritmos e todas lógicas e conceitos por trás dos códigos, fica muito mais fácil de aprender posteriormente as linguagens mais badaladas do mundo da programação, como Java, JavaScript, Python, C#, etc.
 
-Outro ponto interessante para os primeiros passos na programação é ter um bom conhecimento em Estrutura de Dados.
+🚩 Estrutura de Dados
+
 Materiais de ED indicados por comunidades dev:
 - Aula do MIT sobre ED em Inglês: https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 - Curso de Estrutura de Dados na linguagem C em Português: https://www.youtube.com/watch?v=bryesHll0vY&list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka
+
+Porque isso?
+
+Outro ponto interessante para os primeiros passos na programação é ter um bom conhecimento em Estrutura de Dados, também para facilitar sua evolução como programador.
+
+🚩 Banco de Dados:
+
+
+🚩 Programação Orientada a Objetos
 
 --------------------------------------------------------------------------------------------------------------
 
 _IMPORTANTE_
 
-Se você estiver em busca de oportunidades na área de TI é essencial que você poste seus exercícios/projetos de estudo no GitHub e mantenha seu LinkedIn atualizado e bem preenchido.
+Se você estiver em busca de oportunidades na área de TI é essencial que você poste seus exercícios/projetos de estudo no GitHub e mantenha seu currículo atualizado e bem preenchido. Na comunidade do MarcoBrunoDev do Discord tem um canal #mande-seu-cv, lá a galera compartilha seus CV's e analisa o da galera fazendo sugestões de melhorias.
 
 Dica clichê: seja fluente em inglês!
 
-Plataformas interessantes para buscar por vagas:
-- LinkedIn
+Plataformas para buscar por vagas:
+- LinkedIn (muito importante, principal ferramenta de recrutamento na área de TI)
 - GeekHunter
 - Vulpi
 - Progamathor
@@ -48,7 +55,7 @@ Plataformas interessantes para buscar por vagas:
 #TODO
 
 Ferramentas necessárias:
-- Todos precisam: Lógica/Algoritmos, Estrutura de Dados, Programação Orientada a Objetos, Banco de Dados.
+- Todos precisam: Lógica/Algoritmos, Estrutura de Dados, Banco de Dados, Programação Orientada a Objetos.
 - FrontEnd: HTML, CSS, JavaScript, Git/Github, HTTP, Framework(React, Angular ou Vue).
 - BackEnd: .............
 
