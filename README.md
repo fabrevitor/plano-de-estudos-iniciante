@@ -31,15 +31,18 @@ Materiais de ED indicados por comunidades dev:
 
 --------------------------------------------------------------------------------------------------------------
 
-_APOIO_
-
-Comunidades He4rt Developers e MarcoBrunoDev.
-
 _IMPORTANTE_
 
 Se você estiver em busca de oportunidades na área de TI é essencial que você poste seus exercícios/projetos de estudo no GitHub e mantenha seu LinkedIn atualizado e bem preenchido.
 
 Dica clichê: seja fluente em inglês!
+
+Plataformas interessantes para buscar por vagas:
+- LinkedIn
+- GeekHunter
+- Vulpi
+- Progamathor
+- https://twitter.com/ViUmaVaga
 
 --------------------------------------------------------------------------------------------------------------
 #TODO
@@ -48,3 +51,8 @@ Ferramentas necessárias:
 - Todos precisam: Lógica/Algoritmos, Estrutura de Dados, Programação Orientada a Objetos, Banco de Dados.
 - FrontEnd: HTML, CSS, JavaScript, Git/Github, HTTP, Framework(React, Angular ou Vue).
 - BackEnd: .............
+
+--------------------------------------------------------------------------------------------------------------
+_APOIO_
+
+Comunidades He4rt Developers e MarcoBrunoDev.
