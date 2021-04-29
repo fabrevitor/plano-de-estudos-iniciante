@@ -63,6 +63,8 @@ Ferramentas necessárias:
 - FrontEnd: HTML, CSS, JavaScript, Git/Github, HTTP, Framework(React, Angular ou Vue).
 - BackEnd: .............
 
+- Colocar Banco de Dados mais focado para BackEnd, tirar do "TODOS PRECISAM"
+
 --------------------------------------------------------------------------------------------------------------
 _APOIO_
 
