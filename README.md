@@ -51,6 +51,10 @@ Plataformas para buscar por vagas:
 - Progamathor
 - https://twitter.com/ViUmaVaga
 
+💜 Conteúdo fera criado pela comunidade He4rt sobre linguagens, frameworks, ferramentas, sistemas operacionais, design e banco de dados:
+
+https://github.com/he4rt/4noobs
+
 --------------------------------------------------------------------------------------------------------------
 #TODO
 
@@ -62,4 +66,4 @@ Ferramentas necessárias:
 --------------------------------------------------------------------------------------------------------------
 _APOIO_
 
-Comunidades He4rt Developers e MarcoBrunoDev.
+Comunidades He4rt 💜 Developers e MarcoBrunoDev.
