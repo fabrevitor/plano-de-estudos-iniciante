@@ -57,17 +57,16 @@ https://github.com/he4rt/4noobs
 
 --------------------------------------------------------------------------------------------------------------
 #TODO
-
+Coisas para ALTERAR no Plano:
 Ferramentas necessárias:
 - Todos precisam: Lógica/Algoritmos, Estrutura de Dados, Banco de Dados, Programação Orientada a Objetos.
 - FrontEnd: HTML, CSS, JavaScript, Git/Github, HTTP, Framework(React, Angular ou Vue).
 - BackEnd: .............
-
 - Colocar Banco de Dados mais focado para BackEnd, tirar do "TODOS PRECISAM"
-
 - Fazer Testes do Geekhunter
 - Fazer Testes de Competência do LinkedIn
 - Deixar o currículo com um bom layout e objetivo
+- Colocar sobre bootcamps (IGTI, Nélio Alves, Digital Innovation) -> RocketSeat não é bem indicado pelas comunidades dev, valor alto para pouco aprendizado.
 
 --------------------------------------------------------------------------------------------------------------
 _APOIO_
