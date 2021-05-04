@@ -65,6 +65,10 @@ Ferramentas necessárias:
 
 - Colocar Banco de Dados mais focado para BackEnd, tirar do "TODOS PRECISAM"
 
+- Fazer Testes do Geekhunter
+- Fazer Testes de Competência do LinkedIn
+- Deixar o currículo com um bom layout e objetivo
+
 --------------------------------------------------------------------------------------------------------------
 _APOIO_
 
