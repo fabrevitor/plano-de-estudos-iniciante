@@ -1,6 +1,9 @@
 # plano-de-estudos-iniciante
 ##Plano de estudos para iniciantes que estou organizando com indicações da comunidade e vivências que tive ao estudar/praticar no mundo da programação.
 Esse plano é voltado para iniciantes na programação, não irei direcionar para nenhuma linguagem ou stack específica, apenas para ter uma boa base referente a isso.
+
+O conteúdo citado no plano é bem básico, realmente para quem está começando e tendo seus primeiros contatos com a área, são apenas dicas que estou dando de acordo com a minha experiência. No caso é para tentar ajudar as pessoas que não sabem por onde começar. As dicas são totalmente pessoais, pode ser que não seja a melhor abordagem para alguns, então favor considerar isso.
+
 <h4 align="center"> 
  	✅ Plano de Estudos ✅ Finalizado em 17-05-2021 ✅ Último ajuste em 17-05-2021
 </h4>
@@ -90,6 +93,9 @@ Como montar seu Layout do Github -> https://rahuldkjain.github.io/gh-profile-rea
 💜 Conteúdo fera criado pela comunidade He4rt sobre linguagens, frameworks, ferramentas, sistemas operacionais, design e banco de dados: https://github.com/he4rt/4noobs
 
 --------------------------------------------------------------------------------------------------------------
+TODO: REVISAR!
+--------------------------------------------------------------------------------------------------------------
 _APOIO_
 
 Comunidades He4rt 💜 Developers, MarcoBrunoDev e DevHouse.
+
