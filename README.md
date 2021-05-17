@@ -1,5 +1,5 @@
-# plano-de-estudos
-##Plano de estudos que estou organizando com indicações da comunidade e vivências que tive ao estudar/praticar no mundo da programação.
+# plano-de-estudos-iniciante
+##Plano de estudos para iniciantes que estou organizando com indicações da comunidade e vivências que tive ao estudar/praticar no mundo da programação.
 Esse plano é voltado para iniciantes na programação, não irei direcionar para nenhuma linguagem ou stack específica, apenas para ter uma boa base referente a isso.
 <h4 align="center"> 
 	🚧  Plano de Estudos 🚀 Em construção...  🚧
