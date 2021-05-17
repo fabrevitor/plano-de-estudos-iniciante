@@ -67,7 +67,7 @@ Ferramentas necessárias:
 - Fazer Testes de Competência do LinkedIn
 - Deixar o currículo com um bom layout e objetivo
 - Colocar sobre bootcamps (IGTI, Nélio Alves, Digital Innovation) -> RocketSeat não é bem indicado pelas comunidades dev, valor alto para pouco aprendizado.
-
+- Dica para montar o Git: https://rahuldkjain.github.io/gh-profile-readme-generator/
 --------------------------------------------------------------------------------------------------------------
 _APOIO_
 
