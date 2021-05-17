@@ -19,6 +19,8 @@ Porque isso?
 
 Ao entender bem os algoritmos e todas lógicas e conceitos por trás dos códigos, fica muito mais fácil de aprender posteriormente as linguagens mais badaladas do mundo da programação, como Java, JavaScript, Python, C#, etc.
 
+
+
 🚩 Estrutura de Dados
 
 Materiais de ED indicados por comunidades dev:
@@ -28,13 +30,20 @@ Materiais de ED indicados por comunidades dev:
 Porque isso?
 
 Outro ponto interessante para os primeiros passos na programação é ter um bom conhecimento em Estrutura de Dados, também para facilitar sua evolução como programador.
+
+
 "Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa." 
 
+
+
 🚩 Banco de Dados
+
 É importante saber o básico do banco de dados para seguir seus estudos na área de programação, até praticamente todos sistemas geram dados que são salvos em algum lugar, mas é importante frisar que: caso você siga para área de BackEnd, será necessário um conhecimento muito mais aprofundado do que para FrontEnd, por exemplo.
 
 
+
 🚩 Programação Orientada a Objetos
+
 Após os 3 pontos acima, interessante você escolher a linguagem de sua preferência para entender melhor sobre a famosa POO.
 Você pode escolher Java, C#, Python, Kotlin, etc.
 Busque por conteúdos e por comunidades dessa linguagem!
@@ -48,7 +57,7 @@ BackEnd: Banco de Dados, .......
 
 --------------------------------------------------------------------------------------------------------------
 
-_IMPORTANTE_
+_DICAS_
 
 Se você estiver em busca de oportunidades na área de TI é essencial que você poste seus exercícios/projetos de estudo no GitHub e mantenha seu currículo atualizado e bem preenchido. Na comunidade do MarcoBrunoDev e também na DevHouse do Discord tem um canal #mande-seu-cv, lá a galera compartilha seus CV's e analisa o da galera fazendo sugestões de melhorias. Para o CV é essencial que seja bem preenchido, com um bom layout e objetivo.
 
