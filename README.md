@@ -1,12 +1,10 @@
 # plano-de-estudos
 ##Plano de estudos que estou organizando com indicações da comunidade e vivências que tive ao estudar/praticar no mundo da programação.
-
+Esse plano é voltado para iniciantes na programação, não irei direcionar para nenhuma linguagem ou stack específica, apenas para ter uma boa base referente a isso.
 <h4 align="center"> 
 	🚧  Plano de Estudos 🚀 Em construção...  🚧
 </h4>
 
-
-*Primeiros Passos:*
 
 🚩 Lógica de Programação/Algoritmos:
 
@@ -30,17 +28,29 @@ Materiais de ED indicados por comunidades dev:
 Porque isso?
 
 Outro ponto interessante para os primeiros passos na programação é ter um bom conhecimento em Estrutura de Dados, também para facilitar sua evolução como programador.
+"Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa." 
 
-🚩 Banco de Dados:
+🚩 Banco de Dados
+É importante saber o básico do banco de dados para seguir seus estudos na área de programação, até praticamente todos sistemas geram dados que são salvos em algum lugar, mas é importante frisar que: caso você siga para área de BackEnd, será necessário um conhecimento muito mais aprofundado do que para FrontEnd, por exemplo.
 
 
 🚩 Programação Orientada a Objetos
+Após os 3 pontos acima, interessante você escolher a linguagem de sua preferência para entender melhor sobre a famosa POO.
+Você pode escolher Java, C#, Python, Kotlin, etc.
+Busque por conteúdos e por comunidades dessa linguagem!
+
+--------------------------------------------------------------------------------------------------------------
+
+Após obter uma noção boa dos 4 pontos acima, é interessante que você busque por aprofundar seus conhecimentos na linguagem/stack que você desejar, dentro da área da tecnologia tem muitas áreas diferentes, vou citar algumas e as tecnologias interessantes para estudo:
+
+FrontEnd: HTML, CSS, JavaScript, Git/Github, HTTP, Framework(React, Angular ou Vue).
+BackEnd: Banco de Dados, .......
 
 --------------------------------------------------------------------------------------------------------------
 
 _IMPORTANTE_
 
-Se você estiver em busca de oportunidades na área de TI é essencial que você poste seus exercícios/projetos de estudo no GitHub e mantenha seu currículo atualizado e bem preenchido. Na comunidade do MarcoBrunoDev do Discord tem um canal #mande-seu-cv, lá a galera compartilha seus CV's e analisa o da galera fazendo sugestões de melhorias.
+Se você estiver em busca de oportunidades na área de TI é essencial que você poste seus exercícios/projetos de estudo no GitHub e mantenha seu currículo atualizado e bem preenchido. Na comunidade do MarcoBrunoDev e também na DevHouse do Discord tem um canal #mande-seu-cv, lá a galera compartilha seus CV's e analisa o da galera fazendo sugestões de melhorias. Para o CV é essencial que seja bem preenchido, com um bom layout e objetivo.
 
 Dica clichê: seja fluente em inglês!
 
@@ -51,6 +61,12 @@ Plataformas para buscar por vagas:
 - Progamathor
 - https://twitter.com/ViUmaVaga
 
+Você quer chamar atenção no mercado de TI?
+- Faça testes de competência no LinkedIn e no GeekHunter
+
+Quer treinar sua lógica?
+- Faça desafios no URI Online Judge ou HackerRank(plataforma utilizada pelo MELI)
+
 💜 Conteúdo fera criado pela comunidade He4rt sobre linguagens, frameworks, ferramentas, sistemas operacionais, design e banco de dados:
 
 https://github.com/he4rt/4noobs
@@ -59,16 +75,12 @@ https://github.com/he4rt/4noobs
 #TODO
 Coisas para ALTERAR no Plano:
 Ferramentas necessárias:
-- Todos precisam: Lógica/Algoritmos, Estrutura de Dados, Banco de Dados, Programação Orientada a Objetos.
-- FrontEnd: HTML, CSS, JavaScript, Git/Github, HTTP, Framework(React, Angular ou Vue).
-- BackEnd: .............
-- Colocar Banco de Dados mais focado para BackEnd, tirar do "TODOS PRECISAM"
-- Fazer Testes do Geekhunter
-- Fazer Testes de Competência do LinkedIn
-- Deixar o currículo com um bom layout e objetivo
+- Colocar ferramentas de BackEnd para estudar.
 - Colocar sobre bootcamps (IGTI, Nélio Alves, Digital Innovation) -> RocketSeat não é bem indicado pelas comunidades dev, valor alto para pouco aprendizado.
 - Dica para montar o Git: https://rahuldkjain.github.io/gh-profile-readme-generator/
+- Revisar
+
 --------------------------------------------------------------------------------------------------------------
 _APOIO_
 
-Comunidades He4rt 💜 Developers e MarcoBrunoDev.
+Comunidades He4rt 💜 Developers, MarcoBrunoDev e DevHouse.
