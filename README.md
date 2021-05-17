@@ -44,8 +44,8 @@ Outro ponto interessante para os primeiros passos na programação é ter um bom
 
 🚩 Programação Orientada a Objetos
 
-Após os 3 pontos acima, interessante você escolher a linguagem de sua preferência para entender melhor sobre a famosa POO.
-Você pode escolher Java, C#, Python, Kotlin, etc.
+Após os 3 pontos acima, interessante você escolher a linguagem de sua preferência para entender melhor sobre a famosa POO. Você pode escolher Java, C#, Python, Kotlin, etc.
+
 Busque por conteúdos e por comunidades dessa linguagem!
 
 --------------------------------------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ Busque por conteúdos e por comunidades dessa linguagem!
 Após obter uma noção boa dos 4 pontos acima, é interessante que você busque por aprofundar seus conhecimentos na linguagem/stack que você desejar, dentro da área da tecnologia tem muitas áreas diferentes, vou citar algumas e as tecnologias interessantes para estudo:
 
 FrontEnd: HTML, CSS, JavaScript, Git/Github, HTTP, Framework(React, Angular ou Vue).
-BackEnd: Banco de Dados, .......
+BackEnd: Banco de Dados, POO, ........
 
 --------------------------------------------------------------------------------------------------------------
 
