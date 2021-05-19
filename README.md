@@ -5,10 +5,16 @@ Esse plano é voltado para iniciantes na programação, não irei direcionar par
 O conteúdo citado no plano é bem básico, realmente para quem está começando e tendo seus primeiros contatos com a área, são apenas dicas que estou dando de acordo com a minha experiência. No caso é para tentar ajudar as pessoas que não sabem por onde começar. As dicas são totalmente pessoais, pode ser que não seja a melhor abordagem para alguns, então favor considerar isso.
 
 <h4 align="center"> 
- 	✅ Plano de Estudos ✅ Finalizado em 17-05-2021 ✅ Último ajuste em 17-05-2021
+ 	
+ Plano de Estudos ✅ 
+ 
+
+  Finalizado em 17-05-2021 
+
+  Revisado em 19-05-2021
 </h4>
 
-Pelas minhas experiências, defini 4 pilares para ser um dev iniciante, segue abaixo com o emoji 🚩.
+Pelas minhas experiências, defini 4 pilares para ser um dev iniciante, segue abaixo com o emoji 🚩, para alguns casos coloquei exemplos de cursos que me indicaram, porém tem muito conteúdo na internet, aconselho pesquisar antes de iniciar qualquer um deles.
 
 🚩 1) Lógica de Programação/Algoritmos:
 
