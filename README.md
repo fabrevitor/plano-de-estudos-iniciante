@@ -27,7 +27,7 @@ Links:
 - https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV 
 - https://www.cursoemvideo.com/course/curso-de-algoritmo/
 
-Obs: No link do CursoEmVideo é possível pagar por um certificado (cerca de R$40,00).
+Obs: No link do CursoEmVideo é possível pagar por um certificado (cerca de R$25,00).
 
 
 
