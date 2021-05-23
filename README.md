@@ -77,7 +77,7 @@ Se você estiver em busca de oportunidades na área de TI é essencial que você
 
 Dica clichê: seja fluente em inglês!
 
-##### Plataformas para buscar por vagas:
+#### Plataformas para buscar por vagas:
 
 - LinkedIn (muito importante, principal ferramenta de recrutamento na área de TI)
 - GeekHunter
@@ -85,15 +85,15 @@ Dica clichê: seja fluente em inglês!
 - Progamathor
 - https://twitter.com/ViUmaVaga
 
-##### Você quer chamar atenção no mercado de TI?
+#### Você quer chamar atenção no mercado de TI?
 
 - Faça testes de competência no LinkedIn e no GeekHunter
 
-##### Quer treinar sua lógica?
+#### Quer treinar sua lógica?
 
 - Faça desafios no URI Online Judge ou HackerRank (plataforma utilizada pelo MELI para testes do processo seletivo)
 
-##### Bootcamps:
+#### Bootcamps:
 
 - IGTI
 - Digital Innovation (tem parceria com empresas, você faz o bootcamp e já consegue se candidatar a vagas)
@@ -106,7 +106,7 @@ Devolopers Roadmap: https://roadmap.sh/
 💜 Conteúdo fera criado pela comunidade He4rt sobre linguagens, frameworks, ferramentas, sistemas operacionais, design e banco de dados: https://github.com/he4rt/4noobs
 
 ---
-#### Apoio
+### Apoio
 
 Comunidades He4rt 💜 Developers, MarcoBrunoDev e DevHouse.
 
