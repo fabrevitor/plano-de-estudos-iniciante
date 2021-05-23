@@ -71,26 +71,30 @@ Fullstack: FrontEnd + BackEnd
 
 ---
 
-_DICAS_
+### Dicas
 
-Se você estiver em busca de oportunidades na área de TI é essencial que você poste seus exercícios/projetos de estudo no GitHub e mantenha seu currículo atualizado e bem preenchido, contendo um bom layout e que seja objetivo. Na comunidade do MarcoBrunoDev e também na DevHouse do Discord tem um canal #mande-seu-cv, lá a galera compartilha seus CV's e analisa o da galera fazendo sugestões de melhorias.
+Se você estiver em busca de oportunidades na área de TI é essencial que você poste seus exercícios/projetos de estudo no GitHub e mantenha seu currículo atualizado e bem preenchido, contendo um bom layout e que seja objetivo. Na comunidade do *MarcoBrunoDev* e também na *DevHouse* do Discord tem um canal `#mande-seu-cv`, lá a galera compartilha seus CV's e analisa o da galera fazendo sugestões de melhorias.
 
 Dica clichê: seja fluente em inglês!
 
-Plataformas para buscar por vagas:
+##### Plataformas para buscar por vagas:
+
 - LinkedIn (muito importante, principal ferramenta de recrutamento na área de TI)
 - GeekHunter
 - Vulpi
 - Progamathor
 - https://twitter.com/ViUmaVaga
 
-Você quer chamar atenção no mercado de TI?
+##### Você quer chamar atenção no mercado de TI?
+
 - Faça testes de competência no LinkedIn e no GeekHunter
 
-Quer treinar sua lógica?
+##### Quer treinar sua lógica?
+
 - Faça desafios no URI Online Judge ou HackerRank (plataforma utilizada pelo MELI para testes do processo seletivo)
 
-Bootcamps:
+##### Bootcamps:
+
 - IGTI
 - Digital Innovation (tem parceria com empresas, você faz o bootcamp e já consegue se candidatar a vagas)
 - RocketSeat (um dos mais famosos, mais caros, porém pelo o que pesquisei, não recomendam porque é aprendizado é bem básico pelo valor)
@@ -102,7 +106,7 @@ Devolopers Roadmap: https://roadmap.sh/
 💜 Conteúdo fera criado pela comunidade He4rt sobre linguagens, frameworks, ferramentas, sistemas operacionais, design e banco de dados: https://github.com/he4rt/4noobs
 
 ---
-_APOIO_
+#### Apoio
 
 Comunidades He4rt 💜 Developers, MarcoBrunoDev e DevHouse.
 
