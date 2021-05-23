@@ -1,13 +1,14 @@
-# plano-de-estudos-iniciante
-##Plano de estudos para iniciantes que estou organizando com indicações da comunidade e vivências que tive ao estudar/praticar no mundo da programação.
+# Plano de estudos para iniciantes
+
+Plano de estudos para iniciantes que estou organizando com indicações da comunidade e vivências que tive ao estudar/praticar no mundo da programação.
 Esse plano é voltado para iniciantes na programação, não irei direcionar para nenhuma linguagem ou stack específica, apenas para ter uma boa base referente a isso.
 
 O conteúdo citado no plano é bem básico, realmente para quem está começando e tendo seus primeiros contatos com a área, são apenas dicas que estou dando de acordo com a minha experiência. No caso é para tentar ajudar as pessoas que não sabem por onde começar. As dicas são totalmente pessoais, pode ser que não seja a melhor abordagem para alguns, então favor considerar isso.
 
 <h4 align="center"> 
- 	
+
  Plano de Estudos ✅ 
- 
+
 
   Finalizado em 17-05-2021 
 
@@ -16,7 +17,7 @@ O conteúdo citado no plano é bem básico, realmente para quem está começando
 
 Pelas minhas experiências, defini 4 pilares para ser um dev iniciante, segue abaixo com o emoji 🚩, para alguns casos coloquei exemplos de cursos que me indicaram, porém tem muito conteúdo na internet, aconselho pesquisar antes de iniciar qualquer um deles.
 
-🚩 1) Lógica de Programação/Algoritmos:
+🚩 Lógica de Programação/Algoritmos:
 
 Ao entender bem os algoritmos e todas lógicas e conceitos por trás dos códigos, fica muito mais fácil de aprender posteriormente as linguagens mais badaladas do mundo da programação, como Java, JavaScript, Python, C#, etc. É extremamente importante ter essa base bem forte referente a algoritmos.
 
@@ -58,7 +59,7 @@ Acredito que concluindo os estudos desses 4 tópicos e criando os seus primeiros
 Outro fato importante é aprender a utilizar o GitHub, onde você versionará seus softwares e também pode utilizá-lo como um portfólio.
 
 
---------------------------------------------------------------------------------------------------------------
+---
 
 Após obter uma noção boa dos 4 pontos acima, é interessante que você busque por aprofundar seus conhecimentos na linguagem/stack que você desejar, dentro da área da tecnologia tem muitas áreas diferentes, vou citar algumas e as tecnologias interessantes para estudo:
 
@@ -68,7 +69,7 @@ BackEnd: Banco de Dados, POO, Git/Github, PHP/Python/Ruby/Java/C#, Servidor, API
 
 Fullstack: FrontEnd + BackEnd
 
---------------------------------------------------------------------------------------------------------------
+---
 
 _DICAS_
 
@@ -100,8 +101,10 @@ Devolopers Roadmap: https://roadmap.sh/
 
 💜 Conteúdo fera criado pela comunidade He4rt sobre linguagens, frameworks, ferramentas, sistemas operacionais, design e banco de dados: https://github.com/he4rt/4noobs
 
---------------------------------------------------------------------------------------------------------------
+---
 _APOIO_
 
 Comunidades He4rt 💜 Developers, MarcoBrunoDev e DevHouse.
+
+
 
